@@ -1,0 +1,11 @@
+{
+    "chat_id": 0,
+    "text": "Выберите опцию:",
+    "reply_markup": {
+      "inline_keyboard": [
+        [{"text": "200 рублей", "callback_data": "200points"}],
+        [{"text": "500 рублей", "callback_data": "500points"}],
+        [{"text": "Назад", "callback_data": "Back"}]
+      ]
+    }
+  }

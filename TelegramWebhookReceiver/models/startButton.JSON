@@ -1,0 +1,12 @@
+{
+  "chat_id": 0,
+  "photo": "https://postimg.cc/YGZR4K5B",
+  "caption": "",
+  "reply_markup": {
+    "inline_keyboard": [
+      [{"text": "  Запуск  ", "web_app": {"url": "https://jsfiddle.net/vovkaooo/9xcrqum5/show"}}],
+      [{"text": "  Подписка  ", "callback_data": "Subscribe"}],
+      [{"text": "  Как работать  ", "callback_data": "How_work"}]
+    ]
+  }
+}

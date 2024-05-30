@@ -1,0 +1,12 @@
+{
+    "chat_id": 0,
+    "text": "Выберите опцию:",
+    "reply_markup": {
+      "inline_keyboard": [
+        [{"text": "Оформить подписку", "callback_data": "SubscribeSub"}],
+        [{"text": "Подробная информация", "callback_data": "SubscribeInformation"}],
+        [{"text": "Назад", "callback_data": "Back"}]
+      ]
+    }
+  }
+  
